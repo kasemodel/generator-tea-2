@@ -1,5 +1,5 @@
 # generator-tea-2 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Genetro to TEA 2.0
+> Genetor to TEA 2.0
 
 ## Installation
 
